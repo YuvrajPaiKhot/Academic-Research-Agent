@@ -47,7 +47,7 @@ Follow these steps to set up and run the project on your local machine.
 ```bash
 
 
-git clone <your-repository-url>
+git clone https://github.com/YuvrajPaiKhot/Academic-Research-Agent.git
 cd <your-repository-directory>
 ```
 
