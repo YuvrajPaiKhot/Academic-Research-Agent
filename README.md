@@ -28,7 +28,7 @@ Here are a few screenshots of the agent's user interface in action.
 ![realtime logs](assets/real_time_logs.png)
 **Caption:** The agent showing real-time logs during the scraping and summarization process.
 
-![report generation](download_report.png)
+![report generation](assets/download_report.png)
 **Caption:** The final screen showing the collapsible results and the download button for the report.
 
 ---
