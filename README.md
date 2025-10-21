@@ -36,7 +36,7 @@ Here are a few screenshots of the agent's user interface in action.
 ## Live Demo
 
 For a live walkthrough of the application, you can watch the following video:  
-[![Watch Demo](https://img.youtube.com/vi/SBucI92ACF4/0.jpg)](https://youtu.be/SBucI92ACF4)
+[Watch Demo on YouTube](https://youtu.be/SBucI92ACF4)
 
 ---
 
