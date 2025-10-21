@@ -20,7 +20,6 @@ This repository contains the source code for an autonomous research agent design
 ### Screenshots
 
 Here are a few screenshots of the agent's user interface in action.  
-(Add your screenshots here by replacing the placeholder links. You can drag and drop images into the GitHub issue/PR editor to get a link.)
 
 ![sidebar configuration](assets/main_panel.png)
 **Caption:** The main configuration panel in the sidebar.
