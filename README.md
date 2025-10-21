@@ -22,8 +22,13 @@ This repository contains the source code for an autonomous research agent design
 Here are a few screenshots of the agent's user interface in action.  
 (Add your screenshots here by replacing the placeholder links. You can drag and drop images into the GitHub issue/PR editor to get a link.)
 
-**Caption:** The main configuration panel in the sidebar.  
-**Caption:** The agent showing real-time logs during the scraping and summarization process.  
+![sidebar configuration](assets/main_panel.png)
+**Caption:** The main configuration panel in the sidebar.
+
+![realtime logs](assets/realtime_logs.png)
+**Caption:** The agent showing real-time logs during the scraping and summarization process.
+
+![report generation](report_generation.png)
 **Caption:** The final screen showing the collapsible results and the download button for the report.
 
 ---
