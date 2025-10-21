@@ -1,0 +1,4 @@
+streamlit
+langchain
+selenium
+python-docx
